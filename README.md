@@ -17,9 +17,6 @@ Ce projet utilise les technologies suivantes :
 
 ## Notes
 
-Ce dépôt est destiné à servir de point de départ pour votre apprentissage personnel de Symfony 7 et du développement web avec PHP. 
+Ce dépôt est destiné à servir de point de départ à mon apprentissage personnel de Symfony 7 .. 
 
-## Avertissement
-
-Ce dépôt est destiné à un usage éducatif et à des fins d'apprentissage personnel uniquement. Assurez-vous de respecter les bonnes pratiques de développement et les règles de sécurité lors de l'utilisation de ce code dans des projets réels.
 
